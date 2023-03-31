@@ -23,6 +23,8 @@
 
 [![Deploy with Vercel](https://vercel.com/button?utm_source=busiyi&utm_campaign=oss)](https://vercel.com/new/clone?utm_source=busiyi&utm_campaign=oss&repository-url=https://github.com/ChatGPT-Desktop/ChatGPT-Desktop-Porxy)
 
+更详细的手把手部署教程，请移步Discord社区 [置顶帖](https://discord.com/channels/1074429768063262791/1090723974650015857)
+
 `vercel.app` 域名已经封禁，但 `vercel` 服务仍然可以访问，你可以绑定自己的域名来正常使用
 
 注意：如果广泛分享此转发服务，可能导致你的域名被墙
